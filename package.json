@@ -17,7 +17,7 @@
 		"express": "^4.14.0",
 		"express-validator": "^6.4.0",
 		"helmet": "^3.22.0",
-		"mocha": "^7.1.1",
+		"mocha": "^10.2.0",
 		"moment": "^2.25.3",
 		"mongoose": "^5.9.10",
 		"mongoose-timestamp": "^0.6.0",
